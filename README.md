@@ -1,2 +1,2 @@
-# voice-to-voice-frontend
+# voiceAI-frontend
 frontend for custom voice-to-voice infrastructure
